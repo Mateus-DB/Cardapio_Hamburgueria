@@ -35,7 +35,7 @@ Esses dados são consumidos pelo React para renderização dinâmica do cardápi
 
 🔗 Link do deploy:
 
-adicione aqui o link após publicar (GitHub Pages, Vercel ou Netlify)
+https://mateus-db.github.io/Cardapio_Hamburgueria/
 
 🛠️ Como Executar o Projeto Localmente
 # Clone o repositório
@@ -57,7 +57,3 @@ O projeto será executado em:
 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido para praticar conceitos fundamentais do React, como componentização, estado, renderização condicional e filtragem de dados, além de simular o consumo de uma API de produtos.
-
-📸 Preview (Opcional)
-
-Adicione capturas de tela do projeto aqui.
