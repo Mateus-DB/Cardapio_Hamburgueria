@@ -1,16 +1,63 @@
-# React + Vite
+🍽️ Cardápio Digital – Restaurante
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um cardápio digital interativo desenvolvido com React, permitindo que o usuário visualize os pratos oferecidos pelo restaurante de forma simples e dinâmica.
+Os itens são filtrados automaticamente por categoria, proporcionando uma experiência prática e intuitiva.
 
-Currently, two official plugins are available:
+🚀 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React – Criação da interface e componentização
 
-## React Compiler
+JavaScript – Lógica de filtragem e dados simulados
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+CSS – Estilização e responsividade
 
-## Expanding the ESLint configuration
+📌 Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✔️ Visualização dos produtos do restaurante
+✔️ Filtro automático por categorias:
+
+Pratos Principais
+
+Sobremesas
+
+Bebidas
+
+✔️ Atualização dinâmica da lista ao clicar na categoria
+✔️ Interface simples e responsiva
+✔️ Simulação de consumo de API através de um arquivo JavaScript com objetos de produtos
+
+📂 Como Funciona
+
+Os dados dos produtos são armazenados em um arquivo JavaScript que contém objetos representando pratos, bebidas e sobremesas, simulando uma API real.
+Esses dados são consumidos pelo React para renderização dinâmica do cardápio.
+
+🖥️ Demonstração
+
+🔗 Link do deploy:
+
+adicione aqui o link após publicar (GitHub Pages, Vercel ou Netlify)
+
+🛠️ Como Executar o Projeto Localmente
+# Clone o repositório
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+# Acesse a pasta do projeto
+cd nome-do-repositorio
+
+# Instale as dependências
+npm install
+
+# Inicie o projeto
+npm start
+
+
+O projeto será executado em:
+👉 http://localhost:3000
+
+🎯 Objetivo do Projeto
+
+Este projeto foi desenvolvido para praticar conceitos fundamentais do React, como componentização, estado, renderização condicional e filtragem de dados, além de simular o consumo de uma API de produtos.
+
+📸 Preview (Opcional)
+
+Adicione capturas de tela do projeto aqui.
